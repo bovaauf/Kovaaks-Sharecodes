@@ -2,7 +2,7 @@
 ![Logo](https://themeta.com/wp-content/uploads/2021/11/kovaaks_logo.png)
 
 
-# Kovaaks Sharecodes
+### Kovaaks Sharecodes
 
 
 
@@ -11,34 +11,48 @@
  - [Original Sharecodes by Riddbtw](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
 
 
-## How to use?
-
-![Instructions gif](https://tenor.com/view/cat-cat-eat-eat-gif-26094071.gif)
 
 
-## Run Locally
+## DCC MattyOW 
 
-Clone the project
+Static
 
 ```bash
-  git clone https://link-to-project
+  KovaaKsStrikingCanaryBrush
 ```
 
-Go to the project directory
+Precise
 
 ```bash
-  cd my-project
+  KovaaKsTaggingCapturedIntelligence
 ```
 
-Install dependencies
+Reactive
 
 ```bash
-  npm install
+  KovaaKsSwitchingCanarySmg
 ```
 
-Start the server
+Pasu
 
 ```bash
-  npm run start
+  KovaaKsSnipingButteryTeleport
+```
+
+Arc
+
+```bash
+  KovaaKsTeleportingCeruleanDodge
+```
+Switching
+
+```bash
+  KovaaKsStartingCaffeinatedMain
+```
+
+Strafe
+
+```bash
+  KovaaKsStrafingCamouflagedEgg
 ```
 
