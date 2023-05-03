@@ -1,17 +1,6 @@
-
 ![Logo](https://themeta.com/wp-content/uploads/2021/11/kovaaks_logo.png)
 
-
 ### Kovaaks Sharecodes
-
-
-
-## Acknowledgements
-
- - [Original Sharecodes by Riddbtw](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
-
-
-
 
 ## DCC MattyOW 
 
@@ -56,3 +45,58 @@ Strafe
   KovaaKsStrafingCamouflagedEgg
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Acknowledgements
+
+ - [Original Sharecodes by Riddbtw](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
