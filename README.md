@@ -3,7 +3,9 @@
 ### Table of Conetents
 
 [DCC MattyOW](https://github.com/bovaauf/Kovaaks-Sharecodes#dcc-mattyow)
-[Fundamentals]()
+[Fundamentals](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#voltaic-fundamentals)
+
+
 
 ## Voltaic Fundamentals
 Voltaic Iron
@@ -46,51 +48,35 @@ Voltaic Grandmaster
 
 
 
-
 ## DCC MattyOW 
-
 Static
-
 ```bash
   KovaaKsStrikingCanaryBrush
 ```
-
 Precise
-
 ```bash
   KovaaKsTaggingCapturedIntelligence
 ```
-
 Reactive
-
 ```bash
   KovaaKsSwitchingCanarySmg
 ```
-
 Pasu
-
 ```bash
   KovaaKsSnipingButteryTeleport
 ```
-
 Arc
-
 ```bash
   KovaaKsTeleportingCeruleanDodge
 ```
 Switching
-
 ```bash
   KovaaKsStartingCaffeinatedMain
 ```
-
 Strafe
-
 ```bash
   KovaaKsStrafingCamouflagedEgg
 ```
-
-
 
 
 
