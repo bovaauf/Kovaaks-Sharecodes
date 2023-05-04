@@ -66,6 +66,8 @@
 # Benchmarks
 
 [Benchmarks](https://github.com/bovaauf/Kovaaks-Sharecodes#benchmarks-1)
+[Voltaic Kovaaks Season 3](https://github.com/bovaauf/Kovaaks-Sharecodes#voltaic-kovaaks-season-3)
+[Voltaic Kovaaks Season 4](https://github.com/bovaauf/Kovaaks-Sharecodes#voltaic-kovaaks-season-4)
 
 
 
