@@ -53,9 +53,9 @@
 
 [Reactive Tracking](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#reactive-tracking)
 
-[Speed Target Switching](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#speed-ts)
+[Speed Target Switching](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#speed-target-switching)
 
-[Reactive Target Switching](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#reactive-ts)
+[Reactive Target Switching](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#reactive-target-switching)
 
 [Movement](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#movement)
 
