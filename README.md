@@ -63,6 +63,8 @@
 
 [DCC MattyOW](https://github.com/bovaauf/Kovaaks-Sharecodes#dcc-mattyow)
 
+# Benchmarks
+
 
 
 
@@ -162,6 +164,34 @@ Strafe
 ```bash
   KovaaKsStrafingCamouflagedEgg
 ```
+Static Easy
+```bash
+  KovaaKsTrollingChatfraggedHalfbuy
+```
+Precise Easy
+```bash
+  KovaaKsVibratingChestnutAntieco
+```
+Reactive Easy
+```bash
+  KovaaKsWinningChestnutPot
+```
+Pasu Easy
+```bash
+  KovaaKsWipingClearedFrenzy
+```
+Arc Easy
+```bash
+  KovaaKsZoningClippyChoke
+```
+Switching Easy
+```bash
+  KovaaKsAcingClippyYellowbar
+```
+Strafe Easy
+```bash
+  KovaaKsAdsingCloseOperator
+```
 
 
 
@@ -172,13 +202,28 @@ Strafe
 
 
 
-
-
-
-
-
-
-
+## Benchmarks
+Voltaic Intermediate S3
+```bash
+  KovaaKsBobbingMagentaSentinel
+```
+Voltaic Advanced S3
+```bash
+  KovaaKsBombingMahoganyIdentity
+```
+  KovaaKsBombingMahoganyIdentity
+Voltaic Novice S4 
+```bash
+  KovaaKsClearingPetulantScoutrifle
+```
+Voltaic Intermediate S4
+```bash
+  KovaaKsCrackingPrismaticPull
+```
+Voltaic Advanced S4 
+```bash
+  KovaaKsCrankingPulledGauntlet
+```
 
 
 
