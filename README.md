@@ -213,8 +213,8 @@ Voltaic Advanced S3
 ```bash
   KovaaKsBombingMahoganyIdentity
 ```
+
 ### Voltaic Kovaaks Season 4
-  KovaaKsBombingMahoganyIdentity
 Voltaic Novice S4 
 ```bash
   KovaaKsClearingPetulantScoutrifle
