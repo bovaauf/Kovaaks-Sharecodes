@@ -1,15 +1,47 @@
 ![Logo](https://themeta.com/wp-content/uploads/2021/11/kovaaks_logo.png)
 
-### Kovaaks Sharecodes
+### Table of Conetents
 
 [DCC MattyOW](https://github.com/bovaauf/Kovaaks-Sharecodes#dcc-mattyow)
+[Fundamentals]()
 
-
-
-
-
-
-
+## Voltaic Fundamentals
+Voltaic Iron
+```bash
+  KovaaKsAcingShamrockLowground
+```
+Voltaic Bronze
+```bash
+  KovaaKsZoningSepiaTacmap
+```
+Voltaic Silver
+```bash
+  KovaaKsWipingSepiaBuystation
+```
+Voltaic Gold
+```bash
+  KovaaKsWinningSeagreenExitfrag
+```
+Voltaic Plat
+```bash
+  KovaaKsVibratingScarletNano
+```
+Voltaic Diamond
+```bash
+  KovaaKsUltingScaredVehicle
+```
+Voltaic Jade
+```bash
+  KovaaKsTrollingScaredChaingun
+```
+Voltaic Master
+```bash
+  KovaaKsTrackingSaltyFlash
+```
+Voltaic Grandmaster
+```bash
+  KovaaKsTimewarpingSalmonPharmercy
+```
 
 
 
