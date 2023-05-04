@@ -3,8 +3,8 @@
 ### Table of Conetents
 
 [DCC MattyOW](https://github.com/bovaauf/Kovaaks-Sharecodes#dcc-mattyow)
-[Fundamentals](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#voltaic-fundamentals)
 
+[Voltaic Fundamentals](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#voltaic-fundamentals)
 
 
 ## Voltaic Fundamentals
