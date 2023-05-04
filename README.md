@@ -72,6 +72,11 @@
 [Voltaic Kovaaks Season 4](https://github.com/bovaauf/Kovaaks-Sharecodes#voltaic-kovaaks-season-4)
 
 
+# Credits
+
+[Original Sharecodes](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
+
+
 
 ## Games
 ### Apex Legends
