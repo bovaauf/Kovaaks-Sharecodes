@@ -1,8 +1,37 @@
 ![Logo](https://themeta.com/wp-content/uploads/2021/11/kovaaks_logo.png)
 
 # Table of Conetents
+
 # Games
+[Apex Legends](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#apex-legends)
+[Arena FPS](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#arena-fps)
+[Bloodhunt](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#bloodhunt)
+[Call of Duty](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#call-of-duty)
+[CS:GO](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#csgo)
+[DayZ](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#dayz)
+[Destiny](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#destiny)
+[Fortnite](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#fortnite)
+[GTA](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#gta)
+[Halo](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#halo)
+[Hyperscape](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#hyperscape)
+[Minecraft](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#minecraft)
+[Overwatch 2](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#overwatch-2)
+[PUBG](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#pubg)
+[Rainbow 6 Siege](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#rainbow-6-siege)
+[ROBLOX](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#roblox)
+[Splitgate](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#splitgate)
+[Valorant](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#valorant)
+[Warframe](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#warframe)
+
+
 # Kovaaks
+[Dynamic Clicking](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#dynamic-clicking)
+[Static Clicking](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#static-clicking)
+[Precise Tracking](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#precise-tracking)
+[Reactive Tracking](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#reactive-tracking)
+[Speed Target Switching](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#speed-ts)
+[Reactive Target Switching](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#reactive-ts)
+[Movement](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#movement)
 [Voltaic Fundamentals](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#voltaic-fundamentals)
 [DCC MattyOW](https://github.com/bovaauf/Kovaaks-Sharecodes#dcc-mattyow)
 
@@ -35,8 +64,8 @@
 ### Static Clicking
 ### Precise Tracking
 ### Reactive Tracking
-### Speed TS
-### Reactive TS
+### Speed Target Switching
+### Reactive Target Switching
 ### Movement
 ### Voltaic Fundamentals
 Voltaic Iron
