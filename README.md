@@ -67,8 +67,6 @@
 
 [Benchmarks](https://github.com/bovaauf/Kovaaks-Sharecodes#benchmarks-1)
 
-[Voltaic Kovaaks Season 3](https://github.com/bovaauf/Kovaaks-Sharecodes#voltaic-kovaaks-season-3)
-
 [Voltaic Kovaaks Season 4](https://github.com/bovaauf/Kovaaks-Sharecodes#voltaic-kovaaks-season-4)
 
 
@@ -216,17 +214,6 @@ Strafe Easy
 
 
 ## Benchmarks
-
-### Voltaic Kovaaks Season 3
-Voltaic Intermediate S3
-```bash
-  KovaaKsBobbingMagentaSentinel
-```
-Voltaic Advanced S3
-```bash
-  KovaaKsBombingMahoganyIdentity
-```
-
 ### Voltaic Kovaaks Season 4
 Voltaic Novice S4 
 ```bash
