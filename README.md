@@ -7,7 +7,7 @@
 
 # Table of Conetents
 
-# Games
+*# Games
 
 [Apex Legends](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#apex-legends)
 
