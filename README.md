@@ -79,7 +79,73 @@
 
 
 ## Games
+
 ### Apex Legends
+Apex - Beginner - aimerz+
+```bash
+  KovaaKsMainingJumboBot
+```
+Apex - aimerz+
+```bash
+  KovaaKsBottingCapturedCatalyst
+```
+Apex
+```bash
+  KovaaKsAdsing90Patrol
+```
+Apex - Krascsi
+```bash
+  KovaaKsImpactingOlivegreenChoke
+```
+Lap4 - Apex-aware tracking v2
+```bash
+  KovaaKsExitfraggingAlmightyCapture
+```
+Luciian - Apex Routine (Intermediate)
+```bash
+  KovaaKsCrankingDandelionPharmercy
+```
+Luciian - Apex Routine (Experienced)
+```bash
+  KovaaKsCamouflagingChattyEntryfragger
+```
+Apex - n0ted
+```bash
+  KovaaKsBobbingInvincibleShotgun
+```
+Apex - Crylix
+```bash
+  KovaaKsPeakingFraggedFinisher
+```
+PureG Apex Rountine
+```bash
+  KovaaKsPatrollingFuchsiaIntelligence
+```
+Voltaic Apex Easy 
+```bash
+  KovaaKsChokingCloseBug
+```
+Voltaic Apex Advanced 
+```bash
+  KovaaKsChatfraggingChestnutTopfrag
+```
+VT Apex specific - clicking
+```bash
+  KovaaKsClearingCloseStart
+```
+VT Apex specific - tracking
+```bash
+  KovaaKsClickingClutchKillstreak
+```
+VT Apex specific - switching
+```bash
+  KovaaKsClippingCobaltDoublepump
+```
+VT Apex specific - movement
+```bash
+  KovaaKsCounterstrafingCopperBloom
+```
+
 ### Arena FPS
 ### Bloodhunt
 ### Call of Duty
