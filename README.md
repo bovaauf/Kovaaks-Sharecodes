@@ -47,7 +47,6 @@
 
 * [Warframe](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#warframe)
 
-
 # Kovaaks
 
 * [Dynamic Clicking](https://github.com/bovaauf/Kovaaks-Sharecodes/tree/main#dynamic-clicking)
@@ -93,10 +92,6 @@ Apex
 ```bash
   KovaaKsAdsing90Patrol
 ```
-Apex - Krascsi
-```bash
-  KovaaKsImpactingOlivegreenChoke
-```
 Lap4 - Apex-aware tracking v2
 ```bash
   KovaaKsExitfraggingAlmightyCapture
@@ -108,6 +103,10 @@ Luciian - Apex Routine (Intermediate)
 Luciian - Apex Routine (Experienced)
 ```bash
   KovaaKsCamouflagingChattyEntryfragger
+```
+Apex - Krascsi
+```bash
+  KovaaKsImpactingOlivegreenChoke
 ```
 Apex - n0ted
 ```bash
@@ -147,9 +146,51 @@ VT Apex specific - movement
 ```
 
 ### Arena FPS
+Voltaic Arena FPS (Quake & Diabotical)
+```bash
+  KovaaKsAfkingMagentaAfk
+```
+Voltaic LG 1v1
+```bash
+  KovaaKsBindingMaroonWindow
+```
+
+### Battlefield
+Voltaic Call of Duty & Battlefield
+```bash
+  KovaaKsGhostpeekingFedMonster
+```
+
+
+
 ### Bloodhunt
+Gored - Bloodhunt INTERMEDIATE
+```bash
+  KovaaKsDeathballingApricotBattlepass
+```
+Gored - Bloodhunt HARD
+```bash
+  KovaaKsCarryingJebaitedCinematic
+```
+
 ### Call of Duty
+Voltaic Call of Duty & Battlefield
+```bash
+  KovaaKsGhostpeekingFedMonster
+```
+Warzone
+```bash
+  KovaaKsCounterstrafingBrownShard
+```
+Warzone - Iron - Warmup
+```bash
+  KovaaKsBouncingApricotCubby
+```
+
+
 ### CS:GO
+
+
 ### DayZ
 ### Destiny
 ### Fortnite
