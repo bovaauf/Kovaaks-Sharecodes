@@ -185,23 +185,94 @@ Warzone - Iron - Warmup
 ```bash
   KovaaKsBouncingApricotCubby
 ```
+Warzone - Iron - Advanced
+```bash
+  KovaaKsBottingAntiquebrassHip
+```
+Voltaic Warzone Routine
+```bash
+  KovaaKsBuyingMountedDodge
+```
+
+
+
 
 
 ### CS:GO
 
 
 ### DayZ
+
 ### Destiny
+Voltaic Destiny 2
+```bash
+  KovaaKsGlidingFlankedEntryfragger
+```
+
 ### Fortnite
+
+
 ### GTA
+
+
 ### Halo
+Halo
+```bash
+  KovaaKsBottingWeeklyDink
+```
+
+ridd - budget halo infinite
+```bash
+  KovaaKsDashingVividtangerineHip
+```
+
+
+
+
 ### Hyperscape
+Hyper Scape - Fundamentals [Voltaic]
+```bash
+  KovaaKsBouncingMidnightblueBrush
+```
+
 ### Minecraft
 ### Overwatch 2
 ### PUBG
+
+
+
+
 ### Rainbow 6 Siege
+Skylr - Siege Fundamentals (Easy) 
+```bash
+  KovaaKsJumpingKnockedTacmap
+```
+Skylr - Siege Fundamentals (Normal) 
+```bash
+  KovaaKsJigglepeekingKnockedBuystation
+```
+
+Rainbow 6 Siege - Fundamental (Voltaic)
+```bash
+  KovaaKsBunnyhoppingMiniIntelligence
+```
+
+
 ### ROBLOX
+
+
 ### Splitgate
+Splitgate
+```bash
+  KovaaKsBombingAngelicWipe
+```
+Splitgate (Voltaic)
+```bash
+  KovaaKsCallingNarrowBfg
+```
+
+
+
 ### Valorant
 ### Warframe
 
