@@ -69,11 +69,10 @@
 
 # Benchmarks
 
-* [Benchmarks](https://github.com/bovaauf/Kovaaks-Sharecodes#benchmarks-1)
 
 * [Voltaic Kovaaks Season 4](https://github.com/bovaauf/Kovaaks-Sharecodes#voltaic-kovaaks-season-4)
 
-
+* [aimerz+ Benchmark Pre-Season](https://github.com/bovaauf/Kovaaks-Sharecodes#aimerz+-benchmark-pre-season)
 
 
 
@@ -337,5 +336,13 @@ Voltaic Advanced S4
   KovaaKsCrankingPulledGauntlet
 ```
 
-
+### aimerz+ Benchmark Pre-Season
+Normal  
+```bash
+  KovaaKsPerfectingBlackAntieco
+```
+Hard
+```bash
+  KovaaKsPickingBlackPot
+```
 
