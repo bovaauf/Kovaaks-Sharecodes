@@ -237,6 +237,35 @@ Hyper Scape - Fundamentals [Voltaic]
 
 ### Minecraft
 ### Overwatch 2
+Kabe overwatch 1by1 
+```bash
+  KovaaKsFlanking180Eco
+```
+Overwatch 
+```bash
+  KovaaKsBlinkingAfkStrike
+```
+Overwatch 2
+```bash
+  KovaaKsWipingRangedSeason
+```
+Overwatch 2 - Houston Outlaws
+```bash
+  KovaaKsGriefingEntryChaingun
+```
+Overwatch - Fundamental [Voltaic]
+```bash
+  KovaaKsBottingMidEgg
+```
+[StirlingAims] - Overwatch 2 Clicking
+```bash
+  KovaaKsZoningTanAce
+```
+
+
+
+
+
 ### PUBG
 
 
