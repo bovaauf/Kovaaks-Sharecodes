@@ -445,4 +445,3 @@ Hard
 ```bash
   KovaaKsPickingBlackPot
 ```
-
