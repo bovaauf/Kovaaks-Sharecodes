@@ -72,7 +72,7 @@
 
 * [Voltaic Kovaaks Season 4](https://github.com/bovaauf/Kovaaks-Sharecodes#voltaic-kovaaks-season-4)
 
-* [aimerz+ Benchmark Pre-Season](https://github.com/bovaauf/Kovaaks-Sharecodes#aimerz+-benchmark-pre-season)
+* [aimerz+ Benchmark Pre-Season](https://github.com/bovaauf/Kovaaks-Sharecodes#aimerz-benchmark-pre-season)
 
 
 
