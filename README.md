@@ -199,7 +199,14 @@ Voltaic Warzone Routine
 
 
 ### CS:GO
-
+CSGO
+```bash
+  KovaaKsAscending360Ufo
+```
+Voltaic Valorant & Counterstrike (Easy)
+```bash
+  KovaaKsTeleportingJebaitedBuystation
+```
 
 ### DayZ
 
@@ -210,7 +217,6 @@ Voltaic Destiny 2
 ```
 
 ### Fortnite
-
 
 ### GTA
 
@@ -236,6 +242,7 @@ Hyper Scape - Fundamentals [Voltaic]
 ```
 
 ### Minecraft
+
 ### Overwatch 2
 Kabe overwatch 1by1 
 ```bash
@@ -303,16 +310,75 @@ Splitgate (Voltaic)
 
 
 ### Valorant
+Valorant - n0ted
+```bash
+  KovaaKsBottingJumboBattlepass
+```
+Valorant
+```bash
+  KovaaKsClippingBrownBottomfrag
+```
+bardOZ Valorant
+```bash
+  KovaaKsTrackingJitteryLowground
+```
+VALORANT - Freakazoid
+```bash
+  KovaaKsBoomstickingJitteryDink
+```
+VALORANT - PureG [Training]
+```bash
+  KovaaKsHipfiringShamrockAttrition
+```
+VALORANT - PureG [Warmup]
+```bash
+  KovaaKsHeadshottingSepiaDeathball
+```
+Pyth Valorant
+```bash
+  KovaaKsFeedingEggplantImpact
+```
+ZR-Valorant by Robbfps
+```bash
+  KovaaKsDodgingPeachChoke
+```
+Valorant Horizontal Supplementation Acetycholine by Robbfps
+```bash
+  KovaaKsScreamingMountedLowground
+```
+ZR-ValStrafe by Robbfps
+```bash
+  KovaaKsRaidingLavenderFinisher
+```
+Voltaic Valorant & Counterstrike (Easy)
+```bash
+  KovaaKsTeleportingJebaitedBuystation
+```
+Practical Scenarios (103 OW FOV recommended) by yamz
+```bash
+  KovaaKsSwitchingTealValue
+```
+
+
 ### Warframe
 
 ## Kovvaks
+### General (Hybrid)
+### Issue Specific 
 ### Dynamic Clicking
 ### Static Clicking
+Static routine by Krascsi and the chat KovaaKsDinkingMauveLoadout  
+
+### Smooth Tracking
 ### Precise Tracking
 ### Reactive Tracking
 ### Speed Target Switching
 ### Reactive Target Switching
 ### Movement
+### Target Acquisition 
+### Target Reading 
+### Tammas Routines
+### Voltaic Daily Improvement Method 
 ### Voltaic Fundamentals
 Voltaic Iron
 ```bash
@@ -445,3 +511,4 @@ Hard
 ```bash
   KovaaKsPickingBlackPot
 ```
+
